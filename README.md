@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h1 align="center">Hi, I'm Sneha</h1>
 <h3 align="center">An amateur coder eager to learn and become a great analyst</h3>
 
 - 🔭 I’m currently working on [Social Media Sentiment Analysis](https://github.com/Sneha73685/Sentiment-Analysis)
