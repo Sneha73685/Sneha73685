@@ -1,6 +1,14 @@
-# Hi, I’m Sneha 👋  
+# Hi, I’m Sneha  
 
 🎓 Engineering Student | 🤖 AI & Data Analytics Enthusiast | 💻 Full-Stack Developer  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![NLP](https://img.shields.io/badge/NLP-5A29E4?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 I design and build **AI-powered, data-driven systems** focused on solving real-world problems.  
 My work spans **law-enforcement tech, healthcare & mental-health AI, computer vision, analytics, and intelligent automation**.
@@ -9,7 +17,7 @@ I enjoy working at the intersection of **machine learning, scalable backend syst
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 CaseSync  
 **AI-Powered Transcription & Case Documentation Platform for Law Enforcement**
@@ -30,7 +38,15 @@ I enjoy working at the intersection of **machine learning, scalable backend syst
 - Designed for scalability and rapid response scenarios  
 **Tech:** Python, Computer Vision, YOLO  
 
-🔗 https://github.com/Sneha73685/Maha-Hackathon
+🔗 https://github.com/Sneha73685/Maha-Hackathon  
+
+---
+
+### 🔹 Untitled Project  
+- Predicts tyre wear and pit-stop strategies  
+- Track-aware modeling for race simulations  
+- Research-oriented project with publication goals  
+**Tech:** Python, ML, Data Analytics  
 
 ---
 
@@ -41,16 +57,7 @@ I enjoy working at the intersection of **machine learning, scalable backend syst
 - Professional recommendation system  
 **Tech:** NLP, BERT, Random Forest, Web Technologies  
 
-🔗 https://github.com/Sneha73685/MANSI
----
-
-### 🔹 Untitled Project
-- Predicts tyre wear and pit-stop strategies  
-- Track-aware modeling for race simulations  
-- Research-oriented project with publication goals  
-**Tech:** Python, ML, Data Analytics  
-
----
+🔗 https://github.com/Sneha73685/MANSI  
 
 ## 🛠 Tech Stack
 
@@ -84,7 +91,7 @@ Docker · Git · GitHub · Jupyter Notebook · Google Colab
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sneha-b21374249/  
-- 🧑‍💻 GitHub: https://github.com/Sneha73685  
+- LinkedIn: https://www.linkedin.com/in/sneha-b21374249/  
+- GitHub: https://github.com/Sneha73685  
 
-✨ Always learning. Always building.
+Always learning. Always building.
