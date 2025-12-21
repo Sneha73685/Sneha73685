@@ -1,28 +1,90 @@
-<h1 align="center">Hi, I'm Sneha</h1>
-<h3 align="center">An amateur coder eager to learn and become a great analyst</h3>
+# Hi, I’m Sneha 👋  
 
-- 🔭 I’m currently working on [Social Media Sentiment Analysis](https://github.com/Sneha73685/Sentiment-Analysis)
+🎓 Engineering Student | 🤖 AI & Data Analytics Enthusiast | 💻 Full-Stack Developer  
 
-- 🌱 I’m currently learning **Data Analytics**
+I design and build **AI-powered, data-driven systems** focused on solving real-world problems.  
+My work spans **law-enforcement tech, healthcare & mental-health AI, computer vision, analytics, and intelligent automation**.
 
-- 👯 I’m looking to collaborate on [MANSI](https://github.com/Sneha73685/MANSI)
+I enjoy working at the intersection of **machine learning, scalable backend systems, and clean user-centric design** — turning ideas into deployable products and research-oriented solutions.
 
-- 🤝 I’m looking for help with [Punah-Pustak](https://github.com/Sneha73685/Punah-Pustak)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sneha73685](https://github.com/Sneha73685)
+## 🚀 Featured Projects
 
-- 📫 How to reach me **snehawork21@gmail.com**
+### 🔹 CaseSync  
+**AI-Powered Transcription & Case Documentation Platform for Law Enforcement**
+- Real-time multilingual transcription (Bhashini API)  
+- Automated FIR structuring & documentation  
+- Offline audio recording and video transcription  
+- Web dashboard for case management  
+**Tech:** React, FastAPI, PostgreSQL, NLP, Docker  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m-2oxd5Ych8d7SBU8Dxz7JKflyzX-CqY/view?usp=sharing](https://drive.google.com/file/d/1m-2oxd5Ych8d7SBU8Dxz7JKflyzX-CqY/view?usp=sharing)
+🔗 https://github.com/Sneha73685/CaseSync  
 
-- ⚡ Fun fact **I am a chatterbox**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-b21374249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-b21374249/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/snehasneha73685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snehasneha73685" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sneha73685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha73685" height="30" width="40" /></a>
-</p>
+### 🔹 DomeWatch  
+**Hybrid AI-Based Anti-Drone Security System**
+- Vision-based drone detection using deep learning  
+- Real-time monitoring for defense & critical infrastructure  
+- Designed for scalability and rapid response scenarios  
+**Tech:** Python, Computer Vision, YOLO  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🔗 https://github.com/Sneha73685/Maha-Hackathon
+
+---
+
+### 🔹 MANSI  
+**Mental Assistance & Network for Supportive Interactions**
+- Anonymous mental-health support platform  
+- AI-driven sentiment analysis and adaptive questioning  
+- Professional recommendation system  
+**Tech:** NLP, BERT, Random Forest, Web Technologies  
+
+🔗 https://github.com/Sneha73685/MANSI
+---
+
+### 🔹 Untitled Project
+- Predicts tyre wear and pit-stop strategies  
+- Track-aware modeling for race simulations  
+- Research-oriented project with publication goals  
+**Tech:** Python, ML, Data Analytics  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python · SQL · R · JavaScript  
+
+**AI / ML:**  
+Scikit-learn · TensorFlow · NLP · BERT · YOLO · Random Forest  
+
+**Backend & APIs:**  
+FastAPI · Flask · REST APIs  
+
+**Frontend:**  
+React.js · HTML · CSS · JavaScript  
+
+**Databases:**  
+PostgreSQL · MySQL · MongoDB  
+
+**Tools & Platforms:**  
+Docker · Git · GitHub · Jupyter Notebook · Google Colab  
+
+---
+
+## 📌 What I’m Currently Focused On
+- Building production-ready AI systems  
+- Research-driven machine learning projects  
+- Scalable backend architectures  
+- Preparing for higher studies and research opportunities  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sneha-b21374249/  
+- 🧑‍💻 GitHub: https://github.com/Sneha73685  
+
+✨ Always learning. Always building.
