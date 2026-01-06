@@ -42,7 +42,7 @@ I enjoy working at the intersection of **machine learning, scalable backend syst
 
 ---
 
-### 🔹 Untitled Project  
+### 🔹 Project X
 - Predicts tyre wear and pit-stop strategies  
 - Track-aware modeling for race simulations  
 - Research-oriented project with publication goals  
