@@ -1,97 +1,24 @@
-# Hi, I’m Sneha  
+# 💫 About Me:
+🔭 I’m currently working on  <br>AI-driven real-world projects including CaseSync (law-enforcement transcription system), DomeWatch (vision-based anti-drone security), and an F1 tyre degradation & race strategy analytics project.<br><br>👯 I’m looking to collaborate on  <br>AI/ML, data analytics, computer vision, and impactful tech-for-society projects, especially hackathons and research-oriented builds.<br><br>🤝 I’m looking for help with  <br>Advanced machine learning, model optimization, research paper writing, and opportunities related to motorsport analytics or AI product development.<br><br>🌱 I’m currently learning  <br>Machine learning techniques, data analytics, deep learning, and scalable AI system design while strengthening problem-solving and real-world deployment skills.<br><br>💬 Ask me about  <br>AI/ML projects, hackathons, data analytics learning paths, building end-to-end tech solutions, and getting started with impactful student projects.<br><br>⚡ Fun fact  <br>I love turning ambitious ideas into working AI products — and I’m working toward a future in Formula 1 tech or advanced AI research.
 
-🎓 Engineering Student | 🤖 AI & Data Analytics Enthusiast | 💻 Full-Stack Developer  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![NLP](https://img.shields.io/badge/NLP-5A29E4?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_just_sneha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-b21374249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehawork21@gmail.com) 
 
-I design and build **AI-powered, data-driven systems** focused on solving real-world problems.  
-My work spans **law-enforcement tech, healthcare & mental-health AI, computer vision, analytics, and intelligent automation**.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sneha73685&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sneha73685&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha73685&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I enjoy working at the intersection of **machine learning, scalable backend systems, and clean user-centric design** — turning ideas into deployable products and research-oriented solutions.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sneha73685&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## Featured Projects
-
-### 🔹 CaseSync  
-**AI-Powered Transcription & Case Documentation Platform for Law Enforcement**
-- Real-time multilingual transcription (Bhashini API)  
-- Automated FIR structuring & documentation  
-- Offline audio recording and video transcription  
-- Web dashboard for case management  
-**Tech:** React, FastAPI, PostgreSQL, NLP, Docker  
-
-🔗 https://github.com/Sneha73685/CaseSync  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sneha73685&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔹 DomeWatch  
-**Hybrid AI-Based Anti-Drone Security System**
-- Vision-based drone detection using deep learning  
-- Real-time monitoring for defense & critical infrastructure  
-- Designed for scalability and rapid response scenarios  
-**Tech:** Python, Computer Vision, YOLO  
-
-🔗 https://github.com/Sneha73685/Maha-Hackathon  
-
----
-
-### 🔹 Project X
-- Predicts tyre wear and pit-stop strategies  
-- Track-aware modeling for race simulations  
-- Research-oriented project with publication goals  
-**Tech:** Python, ML, Data Analytics  
-
----
-
-### 🔹 MANSI  
-**Mental Assistance & Network for Supportive Interactions**
-- Anonymous mental-health support platform  
-- AI-driven sentiment analysis and adaptive questioning  
-- Professional recommendation system  
-**Tech:** NLP, BERT, Random Forest, Web Technologies  
-
-🔗 https://github.com/Sneha73685/MANSI  
-
-## 🛠 Tech Stack
-
-**Languages:**  
-Python · SQL · R · JavaScript  
-
-**AI / ML:**  
-Scikit-learn · TensorFlow · NLP · BERT · YOLO · Random Forest  
-
-**Backend & APIs:**  
-FastAPI · Flask · REST APIs  
-
-**Frontend:**  
-React.js · HTML · CSS · JavaScript  
-
-**Databases:**  
-PostgreSQL · MySQL · MongoDB  
-
-**Tools & Platforms:**  
-Docker · Git · GitHub · Jupyter Notebook · Google Colab  
-
----
-
-## 📌 What I’m Currently Focused On
-- Building production-ready AI systems  
-- Research-driven machine learning projects  
-- Scalable backend architectures  
-- Preparing for higher studies and research opportunities  
-
----
-
-## 📫 Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/sneha-b21374249/  
-- GitHub: https://github.com/Sneha73685  
-
-Always learning. Always building.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
