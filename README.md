@@ -199,12 +199,12 @@ Full-stack second-hand book marketplace connecting buyers and sellers, with secu
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Sneha73685&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=6F4DAB&icon_color=22D3EE&text_color=E2E8F0"
+  src="./profile/stats.svg"
   height="165"
   alt="Sneha's GitHub statistics"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha73685&layout=compact&hide_border=true&langs_count=8&bg_color=0F172A&title_color=6F4DAB&text_color=E2E8F0"
+  src="./profile/top-langs.svg"
   height="165"
   alt="Sneha's most-used programming languages"
 />
